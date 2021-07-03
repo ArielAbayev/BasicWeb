@@ -1,4 +1,4 @@
-# Basic WEb App
+# Basic WEB App
 Work log management system 
 
 * Basic project
