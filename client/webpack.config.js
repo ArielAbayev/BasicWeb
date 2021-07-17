@@ -6,7 +6,7 @@ const SRC_DIR = path.resolve(__dirname, 'src');
 
 
 module.exports = {
-    entry: SRC_DIR + '/app/index.js',
+    entry: SRC_DIR + '/App/index.js',
     output: {
         path: DIST_DIR,
         publicPath: '/',
